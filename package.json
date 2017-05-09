@@ -1,0 +1,23 @@
+{
+  "name": "ns-extension-hello-world",
+  "version": "0.1.0",
+  "description": "Simple 'Hello World' extension for NativeScript CLI.",
+  "main": "lib/bootstrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosen-vladimirov/ns-extension-hello-world.git"
+  },
+  "keywords": [
+    "extension",
+    "tns"
+  ],
+  "author": "Rosen Vladimirov",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rosen-vladimirov/ns-extension-hello-world/issues"
+  },
+  "homepage": "https://github.com/rosen-vladimirov/ns-extension-hello-world#readme"
+}
